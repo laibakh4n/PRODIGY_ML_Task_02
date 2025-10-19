@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 19 13:37:35 2025
+
+@author: laiba
+"""
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
